@@ -1,0 +1,17 @@
+$cont-color: blue;
+$comp-color: navy;
+$comp-pad: 5px;
+
+.container{
+    background-color: $cont-color;
+    color: white;
+}
+
+h1{
+    background-color: $comp-color;
+    padding: $comp-pad;
+}
+p{
+    background-color: $comp-color;
+    padding: $comp-pad;
+}
